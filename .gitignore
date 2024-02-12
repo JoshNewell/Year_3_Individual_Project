@@ -2,4 +2,6 @@
 Fingerspelling_videos/*.mp4
 Spliced_videos/*.mp4
 .envrc
+.venv
+.python-version
 .direnv
